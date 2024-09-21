@@ -1,0 +1,19 @@
+Join tables in tabluea
+Aim of this data
+Provide data for someone looking to start airbnb business and looking for where to go
+
+Short Description on each sheet
+Sheet 1
+Price by zipcode to find the location with the highest average price
+
+Sheet 2
+Zipcode Against Average Price using map as for visual representation
+
+Sheet 3
+Price against weeks to know the best time to put it on the market for people to use 
+
+Sheet 4
+Average price per bedroom to find out what exactly affects the price, in this case More bedrooms more cost typically
+
+Sheet 5
+Shows the totabl bedrooms available alongside the total number of rooms they have
