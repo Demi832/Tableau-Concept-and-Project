@@ -8,7 +8,7 @@ This repository holds a collection of Tableau files showcasing key concepts and 
 - Project
 
 # Note
-I uploaded Excel files used for the different tableau files as well as the workbooks created as well. Excel final project file was too large so i provided an alternate link
+- Uploaded Excel files used for the different tableau files as well as the workbooks created as well. Excel final project file was too large so i provided an alternate link
 
 # Links
 - Final project excel link: https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
