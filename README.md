@@ -1,5 +1,5 @@
 # Tableau Concepts and Project
-This repository holds a collection of Excel files showcasing key concepts learned in Excel and a project putting everything together.
+This repository holds a collection of Tableau files showcasing key concepts and projects.
 
 # Excel Concepts Include
 - Calculated Fields and Bins
